@@ -4,7 +4,7 @@
 
 A motivated game design student seeking a challenging opportunity to apply my programming skills and passion for game development to create innovative and engaging gaming experiences. 
 
-### 🧰 Languages and Tools
+### 🧰 Skills
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -12,6 +12,13 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<br />
+
+#
+
+### 📺 Tools
+
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="ReferencePictures/unity-69-logo-png-transparent.png"/>
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="ReferencePictures/Unity.png"/>
+<img align="left" alt="Unreal" width="30px" style="padding-right:10px;" src="ReferencePictures/Unreal.png"/>
 <br />
