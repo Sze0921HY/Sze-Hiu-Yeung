@@ -29,8 +29,6 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 #
 
 ### 📺 Projects
-
-### 📺 Projects
 <table>
   <tr>
     <td>
