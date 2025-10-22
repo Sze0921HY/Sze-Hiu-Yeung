@@ -52,5 +52,5 @@ A motivated game design student seeking a challenging opportunity to apply my pr
       </p>
     </td>
   </tr>
+</table>
 
-</div>
