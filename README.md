@@ -34,7 +34,7 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 
 <!-- Project 1 -->
 <a href="https://ghost-knights.itch.io/purr-summer" target="_blank">
-  <img src="ReferencePictures/Microsoft_Office.png" alt="Purr summer" width="45%" style="border-radius:15px; margin:10px;">
+  <img src="Projects/Pictures/SummerJamICON.png" alt="Purr summer" width="45%" style="border-radius:15px; margin:10px;">
 </a>
 
 
