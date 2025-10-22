@@ -13,5 +13,5 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="C:\Users\Hiu\Desktop\unity-69-logo-png-transparent.png" />
 <br />
