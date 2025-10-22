@@ -29,13 +29,28 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 #
 
 ### 📺 Projects
-<!-- Project Cards Section -->
-<div align="center">
-
-<!-- Project 1 -->
-<a href="https://ghost-knights.itch.io/purr-summer" target="_blank">
-  <img src="Projects/Pictures/SummerJamICON.png" alt="Purr summer" width="45%" style="border-radius:15px; margin:10px;">
-</a>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://ghost-knights.itch.io/purr-summer" target="_blank">
+        <img src="Projects/Pictures/SummerJamICON.png" alt="Purr summer" width="45%" style="border-radius:15px; margin:10px;">
+      </a>
+      <p align="center">
+        <b>Redline</b><br>
+        <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+      </p>
+    </td>
+    <td>
+      <a href="https://yourlink.com/cmdwave" target="_blank">
+        <img src="https://your-image-url.com/cmdwave.jpg" alt="CMD: Wave" width="100%" style="border-radius:15px;">
+      </a>
+      <p align="center">
+        <b>CMD: Wave</b><br>
+        <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+      </p>
+    </td>
+  </tr>
 
 </div>
