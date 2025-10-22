@@ -29,4 +29,4 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 #
 
 ### 📺 Tools
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge)]([https://myportfolio.com](https://www.youtube.com/watch?v=sOnhiYzKG0M))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourreponame)](https://github.com/yourusername/yourreponame)
