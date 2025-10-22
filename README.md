@@ -29,4 +29,27 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 #
 
 ### 📺 Tools
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourreponame)](https://github.com/yourusername/yourreponame)
+<!-- Project Cards Section -->
+<div align="center">
+
+<!-- Project 1 -->
+<a href="https://github.com/yourusername/Redline">
+  <img src="https://your-image-url.com/redline.jpg" alt="Redline" width="45%" style="border-radius:15px; margin:10px;">
+</a>
+
+<!-- Project 2 -->
+<a href="https://github.com/yourusername/CMD-Wave">
+  <img src="https://your-image-url.com/cmdwave.jpg" alt="CMD: Wave" width="45%" style="border-radius:15px; margin:10px;">
+</a>
+
+<!-- Project 3 -->
+<a href="https://github.com/yourusername/Steel-Dusk">
+  <img src="https://your-image-url.com/steeldusk.jpg" alt="Steel Dusk" width="45%" style="border-radius:15px; margin:10px;">
+</a>
+
+<!-- Project 4 -->
+<a href="https://github.com/yourusername/Pinnacle">
+  <img src="https://your-image-url.com/pinnacle.jpg" alt="Pinnacle" width="45%" style="border-radius:15px; margin:10px;">
+</a>
+
+</div>
