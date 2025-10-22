@@ -1,6 +1,6 @@
 # Sze Hiu Yeung
 
-**`Digital Media student (Game Developer/UI Designer)`**
+**`Digital Media student (Game Programmer)`**
 
 A motivated game design student seeking a challenging opportunity to apply my programming skills and passion for game development to create innovative and engaging gaming experiences. 
 
@@ -25,3 +25,6 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 <img align="left" alt="Microsoft Office" width="30px" style="padding-right:10px;" src="ReferencePictures/Microsoft_Office.png"/>
 
 <br />
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge)]([https://myportfolio.com](https://www.youtube.com/watch?v=sOnhiYzKG0M))
