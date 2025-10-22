@@ -33,7 +33,7 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 <div align="center">
 
 <!-- Project 1 -->
-<a [href="https://github.com/yourusername/Redline](https://www.youtube.com/watch?v=sOnhiYzKG0M)">
+<a href="https://www.youtube.com/watch?v=sOnhiYzKG0M" target="_blank">
   <img src="ReferencePictures/Microsoft_Office.png" alt="Redline" width="45%" style="border-radius:15px; margin:10px;">
 </a>
 
