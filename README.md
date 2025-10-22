@@ -31,52 +31,24 @@ A motivated game design student seeking a challenging opportunity to apply my pr
 ### 📺 Projects
 
 ### 📺 Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://ghost-knights.itch.io/purr-summer" target="_blank">
-        <img src="Projects/Pictures/SummerJamICON.png" alt="Purr Summer" width="80%" style="border-radius:15px; margin:10px;">
-      </a>
-      <br>
-      <b>Purr Summer</b><br>
-      <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
-    </td>
-
-    <td align="center">
-      <!-- You can add your next project here -->
-      <a href="https://example.com" target="_blank">
-        <img src="Projects/Pictures/YourNextProject.png" alt="Next Project" width="80%" style="border-radius:15px; margin:10px;">
-      </a>
-      <br>
-      <b>Next Project</b><br>
-      <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-    </td>
-  </tr>
-</table>
-
-
 <table>
   <tr>
     <td>
       <p align="center">
-      <a href="https://ghost-knights.itch.io/purr-summer" target="_blank">
-        <img src="Projects/Pictures/SummerJamICON.png" alt="Purr summer" width="45%" style="border-radius:15px; margin:10px;">
+        <a href="https://ghost-knights.itch.io/purr-summer" target="_blank">
+          <img src="Projects/Pictures/SummerJamICON.png" alt="Purr summer" width="45%" style="border-radius:15px; margin:10px;">
       </a>
-        <br>
-        <b>Purr Summer</b><br>
-        <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+      <br><b>Purr Summer</b><br>
+          <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
       </p>
     </td>
-    <td>
-      <a href="https://ghost-knights.itch.io/purr-summer" target="_blank">
-        <img src="Projects/Pictures/SummerJamICON.png" alt="Purr summer" width="45%" style="border-radius:15px; margin:10px;">
-      </a>
+  <td>
       <p align="center">
-        <b>CMD: Wave</b><br>
+        <a href="https://ghost-knights.itch.io/purr-summer" target="_blank">
+          <img src="Projects/Pictures/SummerJamICON.png" alt="Purr summer" width="45%" style="border-radius:15px; margin:10px;">
+        </a>
+        <br><b>CMD: Wave</b><br>
         <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
       </p>
